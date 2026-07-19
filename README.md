@@ -23,6 +23,9 @@ This project uses the AD176 Maze Solver Robot Kit, which includes:
 - 4 Omnidirectional Wheels
 - Battery Holder
 
+AD176 Robot Kit info:
+https://www.robotics.org.za/AD176
+
 ## What I Learned
 
 Through this project, I improved my understanding of:
